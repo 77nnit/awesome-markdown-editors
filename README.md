@@ -20,9 +20,16 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 
 ## Markdown Online Editors
 
-**Mark** 
+**Mark**
 (web: [`mark.barelyhuman.dev`](https://mark.barelyhuman.dev),
 github: [`barelyhuman/mark`](https://github.com/barelyhuman/mark)) - Simple Web Markdown Editor
+
+**JekyllPad**
+(web: [`JekyllPad.com`](http://www.jekyllpad.com/tools/online-markdown-wysiwyg-editor)) Online WYSIWYG Markdown editor with professional features (Tables, Code Blocks, Youtube embde, Image/Video embed, Pexels.com embed, etc.), Supports Github Pages static websites
+
+**Holocron**
+(web: [`holocron.so`](https://holocron.so/markdown-editor)),
+Collaborative Markdown editor with GitHub sync, WYSIWYG rendering, hosting, AI agents integration, accept suggestions from guests (automatically opens GitHub PR).
 
 **Minimalist Online Markdown Editor**
 (web: [`markdown.pioul.fr`](http://markdown.pioul.fr),
@@ -31,11 +38,6 @@ github: [`barelyhuman/mark`](https://github.com/barelyhuman/mark)) - Simple Web 
 **StackEdit**
 (web: [`stackedit.io`](https://stackedit.io),
  github: [`benweet/stackedit`](https://github.com/benweet/stackedit))
-
-**Markdown Note**
-(web: [`writekit.github.io/markdown.note/note.html`](http://writekit.github.io/markdown.note/note.html),
- github: [`writekit/markdown.note`](https://github.com/writekit/markdown.note)) -
-another simple single HTML page, server-less Markdown editor in JavaScript
 
 **Dillinger.io**
 (web: [`dillinger.io`](http://dillinger.io/),
@@ -48,9 +50,9 @@ another simple single HTML page, server-less Markdown editor in JavaScript
 
 **HackMD**
 (web: [`hackmd.io`](http://hackmd.io/),
- github: [`HackMD`](https://github.com/hackmdio)) - Allows collaboration and more UI options. Link to Github is maintained. 
+ github: [`HackMD`](https://github.com/hackmdio)) - Allows collaboration and more UI options. Link to Github is maintained.
 
- **LetsMarkdown.com** 
+ **LetsMarkdown.com**
 (web: [`LetsMarkdown.com`](https://letsmarkdown.com/),
 github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com)) - 👨‍💻👩‍💻 Fast, minimal web editor that makes markdown editing collaborative and accessible to everyone.
 
@@ -58,13 +60,27 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 (web: [`Typo`](https://typo.robino.dev),
  github: [`rossrobino/typo`](https://github.com/rossrobino/typo)) - View content as a document or slideshow with a variety of themes in the browser.
 
+ **Word2md.com**
+ (web: [`Word2md.com`](https://Word2md.com/), - Converting a Word (or Google) Document to markdown, very is easy steps. Just upload your .docx or .doc document, then the praser converts it to crisp, clean Markdown version.
 
+**readme.so**
+ (web: [`readme.so`](https://readme.so/)), - Readme.so is an online editor to help developers make readmes for their project. 
+
+**Reprose**
+ (web: [`reprose.pp.ua`](https://reprose.pp.ua/), github: [`jmas/reprose`](https://github.com/jmas/reprose)), - Reprose is a Markdown editor for GitHub. It uses Github API for list markdown files in yours respository. You can open document in editor and seamlessly save changes to repo.
+
+**type.**
+ (web: [`type.baby`](https://type.baby), github: [`qurle/type`](https://github.com/qurle/type)), - Local-first zen editor. Supports imports/exports, publishing to web and offline work.
+ 
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
 Editors designed to be used by developers for use in websites and web apps.
 
 **Wysimark** (web: [`wysimark.com`](https://wysimark.com/), github: [`portive/wysimark`](https://github.com/portive/wysimark)) - The WYSIWYG editor for Markdown with integrations for React, Vue and Plain JavaScript. Supports CommonMark and GFM specs. Features tables, check lists, images, emojis and attachments. Comes with a modern interface and design. Features cloud based image uploads, attachments, and image resizing. MIT licensed.
 
+**Docs to Markdown Pro** (web: [Docs to Markdown Pro](https://www.docstomarkdown.pro), Google Workspace Marketplace Extension: [Docs to Markdown Pro Extension](https://workspace.google.com/marketplace/app/docs_to_markdown_pro/483386994804) Starts from 29$ per year) - This Google Docs editor add-on converts your Google Docs to Markdown format, including images. It integrates with GitHub and GitLab, allowing you to write collaboratively in Google Docs and commit your work directly as Markdown (including images) to your repositories, streamlining your workflow.
+
+**Umo Editor** (web:[Umo Editor Playground](https://demo.umodoc.com/editor?lang=en-US), Documentation: [Umo Editor Documentation](https://editor.umodoc.com/en/docs), Github: [umodoc/editor](https://github.com/umodoc/editor)) - Umo Editor is open-source document editor based on Vue3 and Tiptap. Umo Editor provides comprehensive document editing capabilities and AI creation features, supports pagination, supports Markdown syntax, offers basic rich text editing functions, allows for the insertion of various node types in multiple formats, provides a variety of practical tools, and supports setting page styles. It also supports exporting in various formats, printing and print preview, block-level document editing, adding custom extensions, multi-language settings, and a dark theme.
 
 ## Markdown Desktop Editors
 
@@ -84,7 +100,7 @@ Deepdwn is an offline-only, feature-rich markdown editor for Windows, Mac and Li
 
 Supports image drag and drop, charts and diagrams, sheet music and tabs, table auto-formatting, tags and categories, and more.
 
-[**KeenWrite**](https://github.com/DaveJarvis/keenwrite) (FREE, open source)
+[**KeenWrite**](https://gitlab.com/DaveJarvis/keenwrite) (FREE, open source)
 
 A free, open-source, cross-platform desktop Markdown editor that can produce beautifully typeset PDFs. The editor has live preview, variables, TeX-based math, diagrams, spell check, dark modes, themes, document statistics, R integration, internationalization support, dockable tabs, and more.
 
@@ -92,7 +108,13 @@ KeenWrite simplifies using variables in documents. Variables are useful for char
 
 See the [tutorials]([https://www.youtube.com/watch?v=u_dFd6UhdV8](https://www.youtube.com/playlist?list=PLB-WIt1cZYLm1MMx2FBG9KWzPIoWZMKu_)) for details.
 
-[**Typora**](https://typora.io/) ($$, Free in beta)
+[**Obsidian.md**](https://obsidian.md/) (FREE, Paid Syncing Options)
+
+Obsidian.md is a powerful and versatile note-taking app that utilizes Markdown to create and link notes seamlessly, forming a personal knowledge base. It allows users to visualize their notes as a graph, making it easy to see connections and relationships between ideas. With its extensive plugin system, Obsidian can be customized to fit various workflows, from academic research to personal journaling. 
+
+[Get more information here.](https://publish.obsidian.md/hub/00+-+Start+here)
+
+[**Typora**](https://typora.io/) ($14.99)
 
 Typora is a highly unique and powerful markdown editor. The most surprising and difficult to explain feature, is the **in place** live preview. In a nutshell as you type markdown it previews the text behind your cursor eliminating the need for a separate preview space.
 
@@ -133,6 +155,16 @@ The interface is translated to many languages, as spanish, german or portuguese.
 
 Znote is a free, elegant program meant to help you write beautifully organized Markdown documents. You can organize your texts, notes, and files even better, using the simplistic left-side widget organizer for smoothly navigating different files.
 
+[**Joplin**](https://joplinapp.org) (FREE, open source)
+
+Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes can be securely synchronised using end-to-end encryption with various cloud services including Nextcloud, Dropbox, OneDrive and it's own Joplin Cloud. The app is available on Windows, macOS, Linux, Android and iOS.
+
+[**Markdown Tools**](https://github.com/igormironchik/markdown-tools) (FREE, open source)
+
+Markdown Tools is a free, open source set of applications for editing, preview and converting to PDF
+Markdown documents. It supports CommonMark 0.31.2 with GitHub extensions, it can load all linked
+Markdown files into preview and convert them into one PDF.
+
 
 ### Linux
 
@@ -159,6 +191,10 @@ Apostrophe (formerly UberWriter), beautiful distraction free writing. With Apost
 (github: [`voldyman/MarkMyWords`](http://github.com/voldyman/MarkMyWords)) -
 a minimal markdown editor
 
+**MDEditor**
+(github: [`TadavomnisT/MDEditor`](https://github.com/TadavomnisT/MDEditor)) -
+MDEditor is a free and open-source Markdown editor that supports previewing and exporting to HTML, PDF, MediaWiki, and more. It also provides programming APIs and can be used as a web application or a cross-platform desktop app.
+
 
 More / Articles
 
@@ -174,6 +210,11 @@ More / Articles
 full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words;
 WriteMonkey is light, fast, and free
 
+**obsidian**
+(web: [`obsidian.md`](http://obsidian.md)) -
+Obsidian is the private and flexible writing app that adapts to the way you think.
+Obsidian stores notes on your device, so you can access them quickly, even offline. No one else can read them, not even us.
+
 **Markdown Monster**
 (web: [`markdownmonster.west-wind.com`](https://markdownmonster.west-wind.com/)) -
 Markdown is everywhere these days and it's used for all sorts of different purposes. Wouldn't it be nice if you have an editor that can keep up with all of those scenarios?
@@ -186,6 +227,31 @@ More / Articles
 
 - [The Best Markdown Editor for Windows](https://sitepoint.com/best-markdown-editors-windows) by Zack Wallace, SitePoint,  July 2017 -- incl. Texts ($19), WriteMonkey, Haroopad ($$, Donationware), MarkPad, MarkdownPad 2, Typora ($$, Free in beta), Caret ($25)
 
+[**Markdown Shell Extensions**](https://github.com/EtheaDev/MarkdownShellExtensions) (FREE - Open Source) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+
+*A collection of tools for markdown files, to edit and view content:*
+
+- A **Markdown Text Editor** to manually edit a markdown file, with instant preview of the output in a HTML Viewer.
+
+- A **Preview handler** which allows you to see the content of the markdown file without open it, in the "Preview Panel", integrated into Windows Explorer.
+
+- Supports Windows Vista, 7, 8, 10 and 11 (for 32 bits and 64 bits).
+
+- Themes (Dark and Light) according to user preferences of Windows Theme
+
+- An easy pre-built Setup is provided.
+
+[**Markdown Help Viewer**](https://github.com/EtheaDev/MarkdownHelpViewer) (FREE - Open Source) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+
+*An integrated help system based on files in Markdown format (and also html), for Delphi and Windows applications*
+
+- A unit (MarkdownHelpViewer.pas) to add the interface to Delphi Help System of your Delphi Application (from XE6 version to latest)
+
+- A VCL Visual Component (TMarkdownViewer) to automatically show Markdown file formatted in HTML (from XE6 version to latest)
+
+- A simple demo to show how to integrate the Help in your application
+
+- An easy pre-built Setup is provided.
 
 ### Apple Mac OS X
 
